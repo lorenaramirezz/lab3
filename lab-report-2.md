@@ -58,9 +58,9 @@ After visiting this web server that I have created, I added a path a query to th
 
 I tagged on `/add-message?s=This is my first message` to my existing url and hit enter. The screenshot below was the output. 
 
-![screenshot 1](Screen_Shot_2023-04-24_at_6.45.57_PM.png)
+![screenshot 1](screenshot1_lab2.png)
 
-![screenshot 2](Screen Shot 2023-04-24 at 6.46.31 PM.png)
+![screenshot 2](screenshot2_lab2.png)
 
 
 
