@@ -104,7 +104,8 @@ int[] input2 = {1, 2, 3};
 Since this array has more than one element, it would not pass because the output is not the same as the input. 
 
 When I ran these two tests with the buggy code, I received the output below.
-![screenshot_4](screenshot4_lab2.png)
+<img width="698" alt="Screen Shot 2023-05-08 at 7 10 03 PM" src="https://user-images.githubusercontent.com/130100480/236976276-5d935956-5759-4bfc-9cda-9dd3e7dc2b2d.png">
+
 
 This is the buggy code beforehand:
 ```
