@@ -55,7 +55,7 @@ The output is shown below.
 `Server Started! Visit http://localhost:4000 to visit.`
 
 After visiting this web server that I have created, I added a path and query to this url. It should look something like the following: 
-` /add-message?s=<string>`. 
+`/add-message?s=<string>`. 
 
 I tagged on `/add-message?s=This is my first message` to my existing url and hit enter. The screenshot below was the output. 
 
